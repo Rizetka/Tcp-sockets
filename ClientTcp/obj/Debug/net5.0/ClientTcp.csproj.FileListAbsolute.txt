@@ -1,0 +1,15 @@
+C:\Users\jagac\Desktop\Tcp\ClientTcp\bin\Debug\net5.0\ClientTcp.exe
+C:\Users\jagac\Desktop\Tcp\ClientTcp\bin\Debug\net5.0\ClientTcp.deps.json
+C:\Users\jagac\Desktop\Tcp\ClientTcp\bin\Debug\net5.0\ClientTcp.runtimeconfig.json
+C:\Users\jagac\Desktop\Tcp\ClientTcp\bin\Debug\net5.0\ClientTcp.runtimeconfig.dev.json
+C:\Users\jagac\Desktop\Tcp\ClientTcp\bin\Debug\net5.0\ClientTcp.dll
+C:\Users\jagac\Desktop\Tcp\ClientTcp\bin\Debug\net5.0\ref\ClientTcp.dll
+C:\Users\jagac\Desktop\Tcp\ClientTcp\bin\Debug\net5.0\ClientTcp.pdb
+C:\Users\jagac\Desktop\Tcp\ClientTcp\obj\Debug\net5.0\ClientTcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagac\Desktop\Tcp\ClientTcp\obj\Debug\net5.0\ClientTcp.AssemblyInfoInputs.cache
+C:\Users\jagac\Desktop\Tcp\ClientTcp\obj\Debug\net5.0\ClientTcp.AssemblyInfo.cs
+C:\Users\jagac\Desktop\Tcp\ClientTcp\obj\Debug\net5.0\ClientTcp.csproj.CoreCompileInputs.cache
+C:\Users\jagac\Desktop\Tcp\ClientTcp\obj\Debug\net5.0\ClientTcp.dll
+C:\Users\jagac\Desktop\Tcp\ClientTcp\obj\Debug\net5.0\ref\ClientTcp.dll
+C:\Users\jagac\Desktop\Tcp\ClientTcp\obj\Debug\net5.0\ClientTcp.pdb
+C:\Users\jagac\Desktop\Tcp\ClientTcp\obj\Debug\net5.0\ClientTcp.genruntimeconfig.cache

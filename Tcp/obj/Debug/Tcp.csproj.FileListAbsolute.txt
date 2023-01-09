@@ -1,0 +1,5 @@
+C:\Users\jagac\Desktop\Tcp\Tcp\bin\Debug\Tcp.exe
+C:\Users\jagac\Desktop\Tcp\Tcp\bin\Debug\Tcp.pdb
+C:\Users\jagac\Desktop\Tcp\Tcp\obj\Debug\Tcp.csproj.CoreCompileInputs.cache
+C:\Users\jagac\Desktop\Tcp\Tcp\obj\Debug\Tcp.exe
+C:\Users\jagac\Desktop\Tcp\Tcp\obj\Debug\Tcp.pdb
